@@ -1,0 +1,11 @@
+.links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.link-item {
+    padding-right: 2rem;
+}
+.link-text {
+    color: black;
+}
